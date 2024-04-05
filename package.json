@@ -1,18 +1,79 @@
 {
-  "name": "@utilcode/simple-template-advanced",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "name": "@npmtuanmap2024/sunt-perspiciatis-dignissimos",
+  "version": "v1.0.0",
+  "description": "Strip comments from JSON. Lets you use comments in your JSON files!",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+  "author": "tuan149",
+  "type": "module",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "json",
+    "strip",
+    "comments",
+    "remove",
+    "delete",
+    "trim",
+    "multiline",
+    "parse",
+    "config",
+    "configuration",
+    "settings",
+    "util",
+    "env",
+    "environment",
+    "jsonc"
+  ],
+  "devDependencies": {
+    "ava": "^4.3.1",
+    "matcha": "^0.7.0",
+    "tsd": "^0.22.0",
+    "xo": "^0.54.2"
+  },
+  "xo": {
+    "rules": {
+      "complexity": "off"
+    }
   },
   "dependencies": {
-    "axios": "^1.6.8"
-  }
+    "@npmtuanmap2024/accusamus-doloremque-quos": "^v1.0.0",
+    "@npmtuanmap2024/adipisci-quaerat-iure": "^v1.0.0",
+    "@npmtuanmap2024/alias-odio-veniam": "^v1.0.0",
+    "@npmtuanmap2024/assumenda-officia-consequatur-in": "^v1.0.0",
+    "@npmtuanmap2024/commodi-dignissimos-officiis": "^v1.0.0",
+    "@npmtuanmap2024/commodi-neque-veritatis": "^v1.0.0",
+    "@npmtuanmap2024/dolores-quas-facilis": "^v1.0.0",
+    "@npmtuanmap2024/error-repudiandae-asperiores": "^v1.0.0",
+    "@npmtuanmap2024/eveniet-consectetur-fuga-magni": "^v1.0.0",
+    "@npmtuanmap2024/expedita-ex-atque": "^v1.0.0",
+    "@npmtuanmap2024/facere-facilis-blanditiis": "^v1.0.0",
+    "@npmtuanmap2024/inventore-delectus-corporis": "^v1.0.0",
+    "@npmtuanmap2024/ipsam-tempora-nisi-omnis": "^v1.0.0",
+    "@npmtuanmap2024/iusto-mollitia-voluptatem": "^v1.0.0",
+    "@npmtuanmap2024/maiores-eaque-est-tempora": "^v1.0.0",
+    "@npmtuanmap2024/molestias-sequi-enim": "^v1.0.0",
+    "@npmtuanmap2024/psychic-dollop": "^1.0.0",
+    "@npmtuanmap2024/quos-amet-ipsum": "^v1.0.0",
+    "@npmtuanmap2024/quos-id-labore": "^v1.0.0",
+    "@npmtuanmap2024/reiciendis-eos-magnam": "^v1.0.0",
+    "@npmtuanmap2024/saepe-quia-voluptates": "^v1.0.0",
+    "@npmtuanmap2024/voluptate-placeat-ea": "^v1.0.0",
+    "@npmtuanmap2024/voluptatibus-officia-fugit": "^v1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmtuanmap2024/sunt-perspiciatis-dignissimos.git"
+  },
+  "homepage": "https://github.com/npmtuanmap2024/sunt-perspiciatis-dignissimos/#readme",
+  "bugs": {
+    "url": "https://github.com/npmtuanmap2024/sunt-perspiciatis-dignissimos/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
